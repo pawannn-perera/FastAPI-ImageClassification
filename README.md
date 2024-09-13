@@ -1,1 +1,1 @@
-# -fastAPI-ImageClassification
+# FastAPI-ImageClassification
