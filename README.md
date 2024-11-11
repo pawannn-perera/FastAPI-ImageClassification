@@ -19,6 +19,3 @@ This project is a FastAPI application that predicts the celebrity from an upload
 - FastAPI
 - TensorFlow
 - Pillow
-
-## The live application can be accessed on huggingface through this link : https://pawan-perera99-fastapi-imageclassification.hf.space
-
